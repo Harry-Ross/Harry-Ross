@@ -1,7 +1,7 @@
 ### Hi, I'm Harry 👋
 You can find my blog at https://harry.is-a.dev/ and you can contact me at: hazross@hotmail.com
 
-![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-Ross&show_icons=true&theme=dracula)
+[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-Ross)](https://github.com/Harry-Ross/github-readme-stats)
 
 <!--
 **Harry-Ross/Harry-Ross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
