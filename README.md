@@ -1,5 +1,5 @@
 ### Hi, I'm Harry 👋
-You can find my blog at https://harry.is-a.dev/ and you can contact me at: hazross@hotmail.com
+You can find my blog at https://harry.is-a.dev/!
 
 [![Harry's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Harry-Ross&show_icons=true&theme=dracula)](https://github.com/Harry-Ross/github-readme-stats)
 
