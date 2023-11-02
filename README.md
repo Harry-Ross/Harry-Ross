@@ -2,9 +2,9 @@
 You can find my blog at https://harry.is-a.dev/!
 
 - 🔭 I’m currently working at SSW as a Software Engineer! - [ssw.com.au/people/harry-ross](https://www.ssw.com.au/people/harry-ross)
-- 🌱 I’m currently learning Astro - a really fantastic SSG
-- 💬 Ask me about Next.js!
-- 📫 How to reach me: My email is hazross@hotmail.com!
+- 🌱 I’m currently learning Go - a really intuitive language that seems super performant. 
+- 💬 Ask me about Next.js and React!
+- 📫 How to reach me: You can find me on Twitter at twitter.com/harryrossdev
 - 😄 Pronouns: He/Him
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
